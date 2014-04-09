@@ -1,6 +1,6 @@
 
-When(/^I park my car in the Valet Parking Lot for (\d+) minutes$/) do |duration|
-  $parkcalc.select_parking_lot('Valet Parking')
+When(/^I park my car in the (.*) Lot for (.*)$/) do |lot, duration|
+  $parkcalc.select_parking_lot(lot)
   $parkcalc.enter_parking_duration(duration)
 end
 
