@@ -73,7 +73,7 @@
           <file leaf-file-name="parkcalc.rb" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Valet/lib/parkcalc.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="14" selection-start="1846" selection-end="1846" vertical-scroll-proportion="0.30843115" vertical-offset="136" max-vertical-offset="1224">
+                <state line="58" column="0" selection-start="3366" selection-end="3366" vertical-scroll-proportion="1.0522946" vertical-offset="0" max-vertical-offset="1224">
                   <folding />
                 </state>
               </provider>
@@ -177,16 +177,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ATDD" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ATDD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ATDD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -468,9 +458,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/short_term.feature.rb">
+    <entry file="file://$PROJECT_DIR$/Valet/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="550" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+        <state line="4" column="63" selection-start="192" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Valet/features/long_term_garage.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="1327" selection-end="1327" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
@@ -482,23 +479,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Valet/features/short_term.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="2" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Valet/features/Valet.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="16" selection-start="652" selection-end="652" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Valet/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="63" selection-start="192" selection-end="220" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
           <folding />
         </state>
       </provider>
@@ -510,9 +493,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Valet/features/long_term_garage.feature">
+    <entry file="file://$PROJECT_DIR$/Valet/features/short_term.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="1327" selection-end="1327" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+        <state line="16" column="2" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
           <folding />
         </state>
       </provider>
@@ -526,7 +509,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Valet/lib/parkcalc.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="14" selection-start="1846" selection-end="1846" vertical-scroll-proportion="0.30843115" vertical-offset="136" max-vertical-offset="1224">
+        <state line="58" column="0" selection-start="3366" selection-end="3366" vertical-scroll-proportion="1.0522946" vertical-offset="0" max-vertical-offset="1224">
           <folding />
         </state>
       </provider>
